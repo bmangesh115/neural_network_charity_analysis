@@ -58,7 +58,7 @@ The link to the Python Script for optimizatioon of the model.<br>
 
 #### Second optmization attempt
 
-1. First attempt optimization model was built by dropping 'EIN', 'NAME', 'STATUS', 'SPECIAL_CONSIDERATIONS', and 'ASK_AMT'columns.
+1. Second attempt optimization model was built by dropping 'EIN', 'NAME', 'STATUS', 'SPECIAL_CONSIDERATIONS', and 'ASK_AMT'columns.
 2. APPLICATION_TYPE category was replaced to 'Other' if counts are less than 50.
 3. CLASSIFICATION category was replaced to 'Other' if counts are less than 500.
 4. Input features = 42.
@@ -75,7 +75,7 @@ The link to the Python Script for optimizatioon of the model.<br>
 
 #### Third optmization attempt
 
-1. First attempt optimization model was built by dropping 'EIN', 'NAME', 'STATUS', 'SPECIAL_CONSIDERATIONS', and 'ASK_AMT'columns.
+1. Third attempt optimization model was built by dropping 'EIN', 'NAME', 'STATUS', 'SPECIAL_CONSIDERATIONS', and 'ASK_AMT'columns.
 2. APPLICATION_TYPE category was replaced to 'Other' if counts are less than 50.
 3. CLASSIFICATION category was replaced to 'Other' if counts are less than 500.
 4. Input features = 42.
